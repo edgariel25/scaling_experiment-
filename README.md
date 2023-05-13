@@ -11,3 +11,13 @@ todo lo anterior se puede seguir con la siguiente URL
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started
 
 para ejecutar terraform y crear la infraestructura seguir los siguiente
+#### Running terraform
+validar que los archivos sean legibles y consistentes
+```
+scaling_experiment-/terrainfra> terraform validate
+```
+Iniciar y crear la infraestructura
+```
+scaling_experiment-/terrainfra> terraform init
+scaling_experiment-/terrainfra> terraform apply
+```
