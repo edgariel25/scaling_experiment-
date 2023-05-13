@@ -3,7 +3,7 @@ El objetivo del experimento es conocer la capacidad de la aplicación para garan
 
 Usamos Terratorm como herramienta de Infraestructura como codigo y creamos y aprovisionamos modulos de infraestructura en AWS.
 
-Prerequisitos
+#### Prerequisitos
 Install terraform para AWS, 
 AWS CLI,
 Y tener una cuenta asociada en AWS
