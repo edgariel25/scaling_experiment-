@@ -3,6 +3,10 @@ El objetivo del experimento es conocer la capacidad de la aplicación para garan
 
 Usamos Terratorm como herramienta de Infraestructura como codigo y creamos y aprovisionamos modulos de infraestructura en AWS.
 
+## Arquitectura
+![Arquitectura](https://github.com/edgariel25/scaling_experiment-/assets/88869036/3bfe6fd3-77b8-4e72-98f0-b8c536435696)
+
+
 #### Prerequisitos
 Install terraform para AWS, 
 AWS CLI,
