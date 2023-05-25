@@ -22,7 +22,7 @@ EOF
 }
 
 resource "aws_iam_instance_profile" "ec2_instance_profile" {
-  name = "ec2_instance_profile_sqs_worker"
+  name = "ec2_instance_profile_notification"
   role = aws_iam_role.sqs_role.name
 }
 
